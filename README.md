@@ -1,8 +1,8 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](file:///C:/Users/asrit/OneDrive/Desktop/netflix/netflix-master/index.html)
+Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)
 
-[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](file:///C:/Users/asrit/OneDrive/Desktop/netflix/netflix-master/index.html)
+[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://bankole2000.github.io/netflix)
 
 _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
